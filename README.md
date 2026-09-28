@@ -160,7 +160,7 @@ See [`برنامه/LICENSE.txt`](برنامه/LICENSE.txt) for license informati
 
 **Mahdi Hajizadh**
 
-GitHub: [@mahdi12hajizadh](https://github.com/mahdi12hajizadh)
+GitHub: [@mahdi-hajizadh](https://github.com/mahdi-hajizadh)
 
 ---
 
